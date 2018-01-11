@@ -1,0 +1,22 @@
+{
+  "name": "simple-nodejs-server",
+  "version": "1.0.0",
+  "description": "Test server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffwang0516/simple-nodejs-server.git"
+  },
+  "author": "Jeff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffwang0516/simple-nodejs-server/issues"
+  },
+  "homepage": "https://github.com/jeffwang0516/simple-nodejs-server#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
